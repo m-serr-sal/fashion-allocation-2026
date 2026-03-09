@@ -1,0 +1,61 @@
+product_id,category,city,score
+14,Blazer,NYC,2.2
+11,Blazer,NYC,2.05
+14,Blazer,Boston,1.8
+14,Blazer,Chicago,1.8
+10,Denim,Boston,1.75
+10,Denim,NYC,1.75
+20,Denim,NYC,1.7
+5,Cargo Pants,Chicago,1.65
+5,Cargo Pants,Boston,1.65
+5,Cargo Pants,NYC,1.65
+9,Cargo Pants,Chicago,1.65
+9,Cargo Pants,NYC,1.65
+9,Cargo Pants,Boston,1.65
+11,Blazer,SF,1.55
+16,Dress,NYC,1.4
+16,Dress,Boston,1.4
+16,Dress,Chicago,1.4
+10,Denim,Chicago,1.35
+13,Dress,NYC,1.35
+13,Dress,Chicago,1.35
+13,Dress,Boston,1.35
+20,Denim,Boston,1.3
+20,Denim,Chicago,1.3
+6,Dress,SF,1.3
+12,Dress,Miami,1.25
+11,Blazer,Chicago,1.25
+4,Dress,Miami,1.25
+12,Dress,Dallas,1.25
+17,Dress,SF,1.25
+3,Cargo Pants,Dallas,1.25
+3,Cargo Pants,Miami,1.25
+4,Dress,Dallas,1.25
+15,Blazer,Miami,1.2
+15,Blazer,Dallas,1.2
+18,Knit Top,Dallas,1.2
+18,Knit Top,Miami,1.2
+2,Dress,Miami,1.2
+7,Knit Top,Miami,1.2
+2,Dress,Dallas,1.2
+7,Knit Top,Dallas,1.2
+8,Knit Top,Seattle,1.15
+8,Knit Top,SF,1.15
+8,Knit Top,Boston,1.15
+12,Dress,LA,1.15
+1,Denim,NYC,1.15
+1,Denim,Boston,1.15
+1,Denim,Seattle,1.15
+15,Blazer,SF,1.1
+6,Dress,Miami,0.9
+6,Dress,NYC,0.9
+17,Dress,NYC,0.85
+17,Dress,Dallas,0.85
+3,Cargo Pants,Seattle,0.75
+4,Dress,Boston,0.75
+19,Dress,NYC,0.75
+19,Dress,Miami,0.75
+19,Dress,LA,0.75
+2,Dress,Boston,0.7
+7,Knit Top,LA,0.7
+18,Knit Top,Denver,0.7

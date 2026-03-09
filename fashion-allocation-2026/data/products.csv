@@ -1,0 +1,21 @@
+product_id,category,price,silhouette,fabric,trend_tags
+1,Denim,205,Tailored,Cotton,Coastal Chic
+2,Dress,332,Tailored,Nylon,Techwear
+3,Cargo Pants,330,Relaxed,Silk,Coastal Chic
+4,Dress,301,Relaxed,Nylon,Coastal Chic
+5,Cargo Pants,174,Tailored,Wool,Coastal Chic
+6,Dress,265,Relaxed,Cotton,Quiet Luxury
+7,Knit Top,353,Tailored,Silk,Techwear
+8,Knit Top,136,Tailored,Cotton,Coastal Chic
+9,Cargo Pants,160,Fitted,Wool,Coastal Chic
+10,Denim,185,Relaxed,Wool,Power Dressing
+11,Blazer,236,Fitted,Wool,Coastal Chic
+12,Dress,229,Fitted,Nylon,Coastal Chic
+13,Dress,318,Tailored,Denim,Power Dressing
+14,Blazer,108,Fitted,Wool,Quiet Luxury
+15,Blazer,342,Tailored,Silk,Techwear
+16,Dress,342,Fitted,Wool,Quiet Luxury
+17,Dress,269,Fitted,Cotton,Power Dressing
+18,Knit Top,379,Oversized,Nylon,Techwear
+19,Dress,327,Fitted,Cotton,Coastal Chic
+20,Denim,237,Tailored,Denim,Utility

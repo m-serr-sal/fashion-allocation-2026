@@ -1,0 +1,16 @@
+## 2026 Fashion Product Allocation Engine
+
+This project simulates how fashion buying teams allocate seasonal
+assortments across stores using trend intelligence and customer profiles.
+
+### Features
+
+- Product scoring system
+- Store segmentation
+- Trend-based weighting
+- Allocation recommendations
+- Data visualizations
+
+### Tools
+
+Python, Pandas, Seaborn, Jupyter

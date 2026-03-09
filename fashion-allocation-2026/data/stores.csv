@@ -1,0 +1,11 @@
+store_id,city,avg_income,style_profile,climate
+101,NYC,130000,Editorial,Cold
+102,Miami,95000,Resort,Hot
+103,LA,120000,Trendy,Warm
+104,Austin,85000,Casual,Warm
+105,Chicago,90000,Modern,Cold
+106,SF,140000,Luxury,Cool
+107,Boston,110000,Classic,Cold
+108,Dallas,88000,Commercial,Hot
+109,Denver,92000,Athleisure,Cool
+110,Seattle,115000,Minimal,Cool
